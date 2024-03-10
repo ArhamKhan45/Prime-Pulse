@@ -1,0 +1,15 @@
+true=!this.ismodified("password")?(yes):{}
+
+
+x=10
+x=5
+true=this.ismodified(x)
+
+x=10
+false=!this.ismodified(x)
+
+
+
+
+
+ 
